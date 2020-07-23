@@ -22,3 +22,39 @@ My passion is in building and improving processes that enable teams to move fast
 Also, I enjoy learning about Programming and applying it to solve real world problems.
 
 That said, I believe there is no better tool for quickly iterating a new web project than Ruby on Rails, which I’ve been using on and off for years.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
