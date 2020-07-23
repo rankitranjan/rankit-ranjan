@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 I am a bangalore-based software engineer and leader.
 
 My passion is in building and improving processes that enable teams to move faster, better, and happier.
