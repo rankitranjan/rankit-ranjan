@@ -1,12 +1,10 @@
 ### Hello 👋
 
 
-<!--	<!--
 **rankit-ranjan/rankit-ranjan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.	**rankit-ranjan/rankit-ranjan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 @@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...	- 😄 Pronouns: ...
 - ⚡ Fun fact: ...	- ⚡ Fun fact: ...
--->	-->
 
 I am a bangalore-based software engineer and leader.
 
